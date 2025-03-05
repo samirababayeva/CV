@@ -1,0 +1,24 @@
+#cv{
+    color: brown;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile {
+    display: flex;
+}
+
+
+
+
+
+
+/* h5{
+    color: blueviolet;
+}
+
+h5 span{
+    color: blue;
+} */
