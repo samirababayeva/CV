@@ -1,24 +1,20 @@
-#cv{
-    color: brown;
+.profil {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+ align-items: center;
+ justify-content:center }
+
+img {
+    width: 150px;
+    height: 130px;
+    border-radius: 50%;
+
 }
 
-.profile {
-    display: flex;
-}
-
-
-
-
-
-
-/* h5{
-    color: blueviolet;
-}
-
-h5 span{
-    color: blue;
-} */
+#cv {
+    background-color: rgb(232, 218, 218);
+    color: purple;
+    width: 400px;
+    height: 420px;
+    border: 5px solid rgb(21, 2, 19);
+     transform: translate(50%, 10%);
+   font-family:'Times New Roman', Times, serif;}
